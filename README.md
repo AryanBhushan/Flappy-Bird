@@ -1,16 +1,9 @@
 # Flappy_Bird-OPENGL
 
-Project Description
+##Project Description
 ```
 The project is based upon GLUT i.e. the OpenGL Utility Toolkit, a window system
-independent toolkit for writing OpenGL programs. OpenGL is a cross-language, cross-
-platform application programming interface for rendering 2D and 3D vector graphics.
-
-It is similar to the famous Flappy Bird game made using OpenGL in C++. It uses the OpenGL
-library GLUT and its various functions and functionalities along with C++ to give an
-experience similar to the famous android game Flappy Bird. It is developed in visual studio
-2019.
-
+independent toolkit for writing OpenGL programs. 
 This project explores the use of physical law (gravitational law) for the game development.
 The game in its exactness follows rules similar to that of the original game known as flappy
 bird. The rules and regulation of the game are very basic and easy to understand. The game
@@ -23,20 +16,7 @@ view while the player continue to play. The case study discusses the use of simp
 modification to build the abstraction. The game is in single player mode. The user can interact
 with the game using keyboard.
 
-```
-
-Objectives
-```
-We made this game or project so that we could give our best in possible ways and show what
-we learned. The objectives of this project are:
-
-- To play the famous game flappy bird in computer.
-- To make it user friendly.
-    - To provide an easy interface.
-    - To entertain people in their leisure time.
-
-
-#### CONCEPT USED
+## CONCEPT USED
 
 OpenGL is a cross-language, cross-platform application programming interface for rendering
 2D and 3D vector graphics. The API is typically used to interact with a graphics processing
