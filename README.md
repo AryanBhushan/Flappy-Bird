@@ -1,6 +1,6 @@
 # Flappy_Bird-OPENGL
 
-##Project Description
+## Project Description
 ```
 The project is based upon GLUT i.e. the OpenGL Utility Toolkit, a window system
 independent toolkit for writing OpenGL programs. 
@@ -17,11 +17,11 @@ modification to build the abstraction. The game is in single player mode. The us
 with the game using keyboard.
 
 ## CONCEPT USED
-
+```
 OpenGL is a cross-language, cross-platform application programming interface for rendering
 2D and 3D vector graphics. The API is typically used to interact with a graphics processing
 unit, to achieve hardware-accelerated rendering. OpenGL libraries and various GL and GLU
-commands were used in this project. These are as follows :
+commands were used in this project.
 
 
 
