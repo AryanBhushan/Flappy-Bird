@@ -15,7 +15,7 @@ background in addition with clouds and grass and flowers on ground and the morni
 view while the player continue to play. The case study discusses the use of simpler motion and
 modification to build the abstraction. The game is in single player mode. The user can interact
 with the game using keyboard.
-
+```
 ## CONCEPT USED
 ```
 OpenGL is a cross-language, cross-platform application programming interface for rendering
